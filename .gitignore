@@ -31,6 +31,6 @@
 *.out
 *.app
 
-# Editor tools
+# Editorial tools
 .vscode
 compile_commands.json
